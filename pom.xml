@@ -26,6 +26,13 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 		</dependency>
 
+		<!-- https://mvnrepository.com/artifact/br.com.swconsultoria/java-nfe -->
+		<dependency>
+			<groupId>br.com.swconsultoria</groupId>
+			<artifactId>java-nfe</artifactId>
+			<version>4.00.24</version>
+		</dependency>
+
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
